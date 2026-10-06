@@ -58,9 +58,9 @@
     "tabletop": "^1.5.2",
     "uglify-js": "^3.3.7"
   },
-  "engines": [
-    "node"
-  ],
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/agershun/alasql.git"
